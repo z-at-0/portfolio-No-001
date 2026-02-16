@@ -17,8 +17,8 @@
 - 使用言語: HTML, CSS, JavaScript（必要に応じて）
 - ライブラリ: なし（純粋な静的サイトとして作成）
 
-## デモサイト
-URL:  https://z-at-0.github.io/portfolio-No-001/
+## デモ
+サイトURL:  https://z-at-0.github.io/portfolio-No-001/
 
 ## ライセンス
 © 2021 Y.K
