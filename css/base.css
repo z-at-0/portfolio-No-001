@@ -431,11 +431,14 @@ footer {
             margin: 4vh auto 2vh auto;
     }
     .border-box {
-        top: 24.5vh;
+        top: 25vh;
     }
     li {
         line-height: 1.2;
     }
+    .container {
+        top: 22%;
+    } 
     .item-content {
         margin: 0 auto 0 auto;
         top: 4vh;
