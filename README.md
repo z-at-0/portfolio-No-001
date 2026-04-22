@@ -21,4 +21,4 @@
 サイトURL:  https://z-at-0.github.io/portfolio-No-001/
 
 ## ライセンス
-© 2021 Y.K
+© 2026 Y.K
